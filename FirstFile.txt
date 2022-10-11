@@ -1,1 +1,2 @@
-This is the text for the first file revised for practice.
+This is the text for the first file revised for practice. Modified again 
+to show git diff
